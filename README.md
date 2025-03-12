@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-im just a chill guy <br>
+im just a chill person <br>
 i wanna learn c, c++, js, python <br>
 i think coding is cool 👀 <br>
 fun facts? <br>
