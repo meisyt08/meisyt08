@@ -9,7 +9,7 @@ i wanna learn to dj <br>
 i love math <br>
 so yay! <br>
 go check out the smuwebdev repo btw the website is soo cool (i love my mentors)<br>
-* heres a genuine qn: does dankuser sound like a guy's username
+
 <!--
 **meisyt08/meisyt08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
